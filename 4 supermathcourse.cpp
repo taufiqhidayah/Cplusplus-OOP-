@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string>
 #include <iomanip>      // std::setfill, std::setw
-
 using namespace std;
 
 int count;
